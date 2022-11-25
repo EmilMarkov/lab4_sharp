@@ -1,0 +1,81 @@
+H:/c#/lab3/lab1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+H:/c#/lab3/lab1/bin/Debug/netcoreapp3.1/appsettings.json
+H:/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.exe
+H:/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.deps.json
+H:/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.json
+H:/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.dev.json
+H:/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.dll
+H:/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.pdb
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.GeneratedMSBuildEditorConfig.editorconfig
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.AssemblyInfoInputs.cache
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.AssemblyInfo.cs
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.csproj.CoreCompileInputs.cache
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.MvcApplicationPartsAssemblyInfo.cache
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/staticwebassets/lab3.StaticWebAssets.Manifest.cache
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/staticwebassets/lab3.StaticWebAssets.xml
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/scopedcss/bundle/lab3.styles.css
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.RazorTargetAssemblyInfo.cache
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.dll
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.pdb
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.genruntimeconfig.cache
+D:/dev/c#/lab3/lab1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/dev/c#/lab3/lab1/bin/Debug/netcoreapp3.1/appsettings.json
+D:/dev/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.StaticWebAssets.xml
+D:/dev/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.exe
+D:/dev/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.deps.json
+D:/dev/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.json
+D:/dev/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.dev.json
+D:/dev/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.dll
+D:/dev/c#/lab3/lab1/bin/Debug/netcoreapp3.1/lab3.pdb
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.csproj.AssemblyReference.cache
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.AssemblyInfoInputs.cache
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.AssemblyInfo.cs
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.csproj.CoreCompileInputs.cache
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.MvcApplicationPartsAssemblyInfo.cache
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/staticwebassets/lab3.StaticWebAssets.Manifest.cache
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.RazorTargetAssemblyInfo.cache
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.dll
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.pdb
+D:/dev/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.genruntimeconfig.cache
+H:/c#/lab3/lab1/obj/Debug/netcoreapp3.1/lab3.csproj.AssemblyReference.cache
+/home/emil/dev/c#/lab3 - копия/lab1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/emil/dev/c#/lab3 - копия/lab1/bin/Debug/netcoreapp3.1/appsettings.json
+/home/emil/dev/c#/lab3 - копия/lab1/bin/Debug/netcoreapp3.1/lab3.StaticWebAssets.xml
+/home/emil/dev/c#/lab3 - копия/lab1/bin/Debug/netcoreapp3.1/lab3
+/home/emil/dev/c#/lab3 - копия/lab1/bin/Debug/netcoreapp3.1/lab3.deps.json
+/home/emil/dev/c#/lab3 - копия/lab1/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.json
+/home/emil/dev/c#/lab3 - копия/lab1/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.dev.json
+/home/emil/dev/c#/lab3 - копия/lab1/bin/Debug/netcoreapp3.1/lab3.dll
+/home/emil/dev/c#/lab3 - копия/lab1/bin/Debug/netcoreapp3.1/lab3.pdb
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.csproj.AssemblyReference.cache
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.GeneratedMSBuildEditorConfig.editorconfig
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.AssemblyInfoInputs.cache
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.AssemblyInfo.cs
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.csproj.CoreCompileInputs.cache
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.MvcApplicationPartsAssemblyInfo.cache
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/staticwebassets/lab3.StaticWebAssets.Manifest.cache
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.RazorTargetAssemblyInfo.cache
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.dll
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.pdb
+/home/emil/dev/c#/lab3 - копия/lab1/obj/Debug/netcoreapp3.1/lab3.genruntimeconfig.cache
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.csproj.AssemblyReference.cache
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.GeneratedMSBuildEditorConfig.editorconfig
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.AssemblyInfoInputs.cache
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.AssemblyInfo.cs
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.csproj.CoreCompileInputs.cache
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.MvcApplicationPartsAssemblyInfo.cache
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.dll
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.pdb
+/home/emil/dev/c#/lab4/lab1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/emil/dev/c#/lab4/lab1/bin/Debug/netcoreapp3.1/appsettings.json
+/home/emil/dev/c#/lab4/lab1/bin/Debug/netcoreapp3.1/lab3.StaticWebAssets.xml
+/home/emil/dev/c#/lab4/lab1/bin/Debug/netcoreapp3.1/lab3
+/home/emil/dev/c#/lab4/lab1/bin/Debug/netcoreapp3.1/lab3.deps.json
+/home/emil/dev/c#/lab4/lab1/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.json
+/home/emil/dev/c#/lab4/lab1/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.dev.json
+/home/emil/dev/c#/lab4/lab1/bin/Debug/netcoreapp3.1/lab3.dll
+/home/emil/dev/c#/lab4/lab1/bin/Debug/netcoreapp3.1/lab3.pdb
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/staticwebassets/lab3.StaticWebAssets.Manifest.cache
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.RazorTargetAssemblyInfo.cache
+/home/emil/dev/c#/lab4/lab1/obj/Debug/netcoreapp3.1/lab3.genruntimeconfig.cache
